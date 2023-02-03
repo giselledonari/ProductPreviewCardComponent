@@ -92,7 +92,7 @@ p{
 
 @media (min-width: 500px) {
     body{
-        margin-top:175px;
+        margin:175px;
     }
     main{
         display: flex;
