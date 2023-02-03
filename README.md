@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen My Solution](./images/screenMySolution.PNG)
+![Screen My Solution](../src/images/screenMySolution.PNG)
 
 
 ### Links
