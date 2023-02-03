@@ -91,9 +91,11 @@ p{
 }
 
 @media (min-width: 500px) {
+    body{
+        margin-top:175px;
+    }
     main{
         display: flex;
-        min-height:800px;
         justify-content: center;
         justify-items: center;
     }
