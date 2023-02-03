@@ -10,11 +10,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:[Github Page] (https://giselledonari.github.io/ProductPreviewCardComponent/)
+- Live Site URL:https://giselledonari.github.io/ProductPreviewCardComponent/
 
 ## My process
 
@@ -54,4 +50,4 @@ Users should be able to:
 - Frontend Mentor - [@giselledonari](https://www.frontendmentor.io/profile/giselledonari)
 - Linkedin - [@giselledonari](https://www.linkedin.com/in/giselle-donari-riveros-88473510b/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
