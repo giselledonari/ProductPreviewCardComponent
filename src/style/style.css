@@ -95,7 +95,6 @@ button img{
         display: flex;
         justify-content: center;
         justify-items: center;
-        min-height: 500px;
     }
     .producto{
         height: 450px;
