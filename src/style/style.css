@@ -62,7 +62,7 @@ p{
 .infoProducto{
     padding: 24px;
 }
-button{
+.button{
     background-color: hsl(158, 36%, 37%);
     width: 300px;
     height: 48px;
@@ -73,7 +73,7 @@ button{
     align-items: center;
 }
 
-button p{
+.button p{
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
@@ -81,18 +81,19 @@ button p{
     padding: 0;
 }
 
-button:hover{
+.button:hover{
     background-color:rgb(26, 64,49);
     cursor: pointer;
 }
 
-button img{
+.button img{
     margin-right: 10px;
 }
 
 @media (min-width: 500px) {
     main{
         display: flex;
+        min-height:800px;
         justify-content: center;
         justify-items: center;
     }
